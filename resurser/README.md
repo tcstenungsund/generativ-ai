@@ -1,6 +1,4 @@
-# Resurser  
+# För elever  
 
-## För elever  
-
-## För lärare  
+# För lärare  
 
